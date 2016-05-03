@@ -1,6 +1,2 @@
  this is a test!
-<<<<<<< HEAD
  Git is a distributed version control gewsdfds system.
-=======
- Git is a distributed version control dsafds system.
->>>>>>> 426f9ab5895175ff372f553f7c82a75fb8290b2f
